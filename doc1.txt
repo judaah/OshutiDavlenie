@@ -1,0 +1,175 @@
+<HTML>
+    <HEAD>
+         <TITLE> Кардиологическая клиника</TITLE>
+<H1>   Добро пожаловать на страницу нашей клиники </H1>
+
+<P>   
+<font face="Verdana">
+«Если вы хотите записаться к нам на приём, просьба оставить заявку» 
+
+
+
+
+
+</P>
+<P>Врач-кардиолог осуществляет диагностику состояния сердечно-сосудистой системы в комплексе. При необходимости выполняется назначение эффективной терапии. Протекающие на фоне различных хронических инфекционных заболеваний сердечно-сосудистой системы недомогания требуют особого подхода, который в полной мере будет обеспечен нашими специалистами.
+
+ <b>   Справочная информация </b>
+
+</P>
+
+
+<P>
+
+<i>Кардиоклиника</i> — Ощути давление.
+</font>
+
+
+
+<P/>
+
+<P>
+<p align="center" style="color:#ff0099; font-size:30px">
+Клиника оснащена самым современным оборудованием
+</P>
+
+<hr align="left" width="80%" size="1" color="#0000CD" />
+
+<P>
+<p align="center"  font-size:30px">
+«&copy; <A HREF="mailto:OshutiDavlenie@gmail.com">Ощути Давление</A>, группа 9840,9 факультет, ГУАП &ndash; 2020. Все права защищены.»
+<P/>
+<style>
+   body {
+    background: #333; /* Цвет фона */
+    color: #fc0; /* Цвет текста */
+
+   }
+  </style>
+<hr align="left" width="80%" size="1" color="#0000CD" />
+
+ <body alink="#014CA1" b>
+  <p><a href="content.html">Содержание сайта</a></p>
+ </body>
+
+
+<body alink="#014CA1" b>
+  <p><a href="content.html">Запись на приём</a></p>
+ </body>
+
+<body alink="#014CA1" b>
+  <p><a href="content.html">Онлайн консультация
+</a></p>
+ </body>
+
+<H2>
+FAQ
+</H2>
+<H3>
+Препараты
+</H3>
+<H3>
+Противопоказания
+</H3>
+<H3>
+Аллергические реакции
+</H3>
+
+<style>
+   table {
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    border-spacing: 1px; /* Расстояние между ячейками */
+   }
+   td, th {
+    background: maroon; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+   }
+  </style>
+ </head> 
+ <body>
+  <table>
+   <tr><th>Первая запись</th><th>Есть аккаунт</th></tr>
+   <tr><td>Регистрация</td><td>Войти в аккаунт</td></tr>
+  </table>
+
+<html>
+<head>
+<style>
+.mainmenubtn {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+    background-color: black;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+</style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="mainmenubtn">Главное меню</button>
+  <div class="dropdown-child">
+    <a href="http://www.вашдомен.ru/page1.html">Информация</a>
+    <a href="http://www.вашдомен.ru/page2.html">Правила площадки</a>
+    <a href="http://www.вашдомен.ru/page3.html">Личный кабинет</a>
+    <a href="http://www.вашдомен.ru/page4.html">Плейлисты</a>
+  </div>
+</div>
+</body>
+</html>
+
+
+<P>   
+<font face="Verdana">
+«Проводим общий и клинический анализ крови. Выполняем анализы на электролиты, витамины, микроэлементы. Кроме того, у нас вы можете сдать анализ на вирусные гепатиты, ВИЧ-инфекцию, паразитарные и грибковые инфекции.>>
+
+
+
+
+</P>
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>video</title>
+ </head>
+ <body>
+  <video width="400" height="300" controls="controls" poster="video/duel.jpg">
+   <source src="video/duel.ogv" type='video/ogg; codecs="theora, vorbis"'>
+   <source src="video/duel.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+   <source src="video/duel.webm" type='video/webm; codecs="vp8, vorbis"'>
+   Тег video не поддерживается вашим браузером. 
+   <a href="video/duel.mp4">Скачайте видео</a>.
+  </video>
+ </body>
+</html>
+
+
+ <body>
+  <p>Содержимое веб-страницы</p>
+ </body>
+</html>
+
+
